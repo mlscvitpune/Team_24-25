@@ -16,7 +16,7 @@ Welcome to the MLSC Team 2024-2025 repository! This document provides an overvie
 | Swaraj Phand | Management Head | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
 | Varad Kulkarni | Content and Strategy Head | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
 | Anushka Waghmare | PR and Outreach Head | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
-| Swarnim Yawale | Head of Branding | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
+| Swarnim Yawale | Head of Branding | [GitHub](https://github.com/Swarnim-Yawale) | [LinkedIn](https://www.linkedin.com/in/swarnim-yawale-142109264/) | [Twitter](https://x.com/swarnim_y424) |  |
 
 ---
 
