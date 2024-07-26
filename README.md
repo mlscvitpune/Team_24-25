@@ -71,7 +71,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
-| **Susmit Bahadkar** | **Lead** | **[GitHub](https://github.com/bobbybacala)** | **[LinkedIn](https://www.linkedin.com/in/susmit-bahadkar-8b127925b/)** | **[Twitter](https://x.com/susmit_bahadkar)** | |
+| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 ---
@@ -80,7 +80,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
-| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| **[Pr]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 ---
@@ -98,7 +98,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
-| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| **Pranav Doshi** | **Lead** | **[GitHub](https://github.com/pranav8doshi)** | **[LinkedIn](https://www.linkedin.com/in/pranav-doshi-5463b2249)** | **[Twitter](https://x.com/PranavDosh17136)** | **[Other Links]** |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 ---
