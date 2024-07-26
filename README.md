@@ -125,7 +125,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
-| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| **Bhavesh Patil** | **Lead** | **[GitHub](https://github.com/bhaveshxop)** | **[LinkedIn](https://www.linkedin.com/in/bhavesh-patil-b01b10254/)** | **[Twitter](https://x.com/BhaveshNPatil)** | **[Medium](https://medium.com/@bhaveshxop)** |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 ---
