@@ -54,7 +54,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
 | **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
+| [Akshat Patil] | [coordinator] | [GitHub](https://github.com/pieakshat) | [LinkedIn](https://www.linkedin.com/in/akshat-patil-909bb828a/) | [Twitter](https://x.com/pieakshat) | |
 
 ---
 
