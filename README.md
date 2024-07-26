@@ -41,19 +41,19 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ### Web Development
 
-| Name                 | Role       | GitHub                                       | LinkedIn                                               | Twitter                                     | Other Links   |
-| -------------------- | ---------- | -------------------------------------------- | ------------------------------------------------------ | ------------------------------------------- | ------------- |
-| **Omkar Khanvilkar** | **Lead**   | **[GitHub](https://github.com/omithecoder)** | **[LinkedIn](https://www.linkedin.com/in/omkar2004/)** | **[Twitter](https://x.com/Omkarsoham9776)** |               |
-| [Add Name]           | [Add Role] | [GitHub]                                     | [LinkedIn]                                             | [Twitter]                                   | [Other Links] |
+| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
+| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
+| **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
 
 ---
 
 ### Web 3.0
 
-| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
-| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+| Name                 | Role       | GitHub                                       | LinkedIn                                               | Twitter                                     | Other Links   |
+| -------------------- | ---------- | -------------------------------------------- | ------------------------------------------------------ | ------------------------------------------- | ------------- |
+| **Omkar Khanvilkar** | **Lead**   | **[GitHub](https://github.com/omithecoder)** | **[LinkedIn](https://www.linkedin.com/in/omkar2004/)** | **[Twitter](https://x.com/Omkarsoham9776)** |               |
+| [Add Name]           | [Add Role] | [GitHub]                                     | [LinkedIn]                                             | [Twitter]                                   | [Other Links] |
 
 ---
 
