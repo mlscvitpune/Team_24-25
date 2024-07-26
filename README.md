@@ -89,7 +89,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
-| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| **Ashish Rodi** | **Lead** | **[GitHub](https://github.com/AshishRodi)** | **[LinkedIn](www.linkedin.com/in/ashish-rodi-a7328a269)** | **[Twitter]** | **[Other Links]** |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 ---
