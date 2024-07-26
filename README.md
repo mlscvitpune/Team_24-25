@@ -116,7 +116,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
-| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| **[Om Lohade]** | **Lead** | **[https://github.com/omlohade]** | **[https://www.linkedin.com/in/om-lohade-373b29291/]** | **[https://x.com/OLohade82000]** | **[Other Links]** |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 ---
