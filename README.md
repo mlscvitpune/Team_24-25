@@ -81,7 +81,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
 | **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
+| Ishaan Chepurwar | Coordinator | [GitHub](https://github.com/Ish81/Ish81) | [LinkedIn](https://www.linkedin.com/in/ishaan-chepurwar-6a9b98293/) |  |  |
 
 ---
 
