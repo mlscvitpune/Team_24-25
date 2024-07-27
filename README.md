@@ -13,7 +13,7 @@ Welcome to the MLSC Team 2024-2025 repository! This document provides an overvie
 | Parth Kulkarni | Project Head | [GitHub](https://github.com/parthkulkarni04) | [LinkedIn](https://www.linkedin.com/in/parthkulkarni04/) | [Twitter](https://x.com/KulkarniParth17) |  |
 | Arya Pathak | Technical Lead | [GitHub](https://github.com/arya2004) | [LinkedIn](https://www.linkedin.com/in/arya-pathak-a53a58256/) | [Twitter](https://twitter.com/_arya2004) |  |
 | Chirag Belani | Treasurer | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
-| Swaraj Phand | Management Head | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
+| Swaraj Phand | Management Head | [GitHub](https://github.com/Swaraj7700) | [LinkedIn](https://www.linkedin.com/in/swaraj-phand-037995248/) | [Twitter](https://x.com/swaraj_phand) |  |
 | Varad Kulkarni | Content Strategy Head | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
 | Anushka Waghmare | PR and Outreach Head | [GitHub](https://github.com/Anushka068) | [LinkedIn](https://www.linkedin.com/in/anushka-waghmare-104865261/) | [Twitter](https://x.com/AnushkaWaghma12) |  |
 | Swarnim Yawale | Head of Branding | [GitHub](https://github.com/Swarnim-Yawale) | [LinkedIn](https://www.linkedin.com/in/swarnim-yawale-142109264/) | [Twitter](https://x.com/swarnim_y424) |  |
