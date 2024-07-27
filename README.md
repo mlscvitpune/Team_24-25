@@ -11,7 +11,7 @@ Welcome to the MLSC Team 2024-2025 repository! This document provides an overvie
 | Chinmay Inamdar | President | [GitHub]() | [Twitter]() | [Twitter]() |
 | Ashish Jha | Vice President | [GitHub](https://github.com/ashishjha1034) | [LinkedIn](https://www.linkedin.com/in/ashish-jha-a75b18250/) | [Twitter](https://x.com/ashishjha1034) |  |
 | Parth Kulkarni | Project Head | [GitHub](https://github.com/parthkulkarni04) | [LinkedIn](https://www.linkedin.com/in/parthkulkarni04/) | [Twitter](https://x.com/KulkarniParth17) |  |
-| Arya Pathak | Technical Lead | [GitHub](https://github.com/arya2004) | [LinkedIn](https://www.linkedin.com/in/arya-pathak-a53a58256/) | [Twitter](https://twitter.com/_arya2004) |  |
+| Arya Pathak | Technical Lead | [GitHub](https://github.com/arya2004) | [LinkedIn](https://www.linkedin.com/in/arya-pathak-a53a58256/) | [Twitter](https://twitter.com/_arya2004) | [Hashnode](https://arya2004.hashnode.dev/)  |
 | Chirag Belani | Treasurer | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
 | Swaraj Phand | Management Head | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
 | Varad Kulkarni | Content Strategy Head | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
