@@ -14,7 +14,7 @@ Welcome to the MLSC Team 2024-2025 repository! This document provides an overvie
 | Arya Pathak | Technical Lead | [GitHub](https://github.com/arya2004) | [LinkedIn](https://www.linkedin.com/in/arya-pathak-a53a58256/) | [Twitter](https://twitter.com/_arya2004) |  |
 | Chirag Belani | Treasurer | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
 | Swaraj Phand | Management Head | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
-| Varad Kulkarni | Content and Strategy Head | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
+| Varad Kulkarni | Content Strategy Head | [GitHub]() | [LinkedIn]() | [Twitter]() |  |
 | Anushka Waghmare | PR and Outreach Head | [GitHub](https://github.com/Anushka068) | [LinkedIn](https://www.linkedin.com/in/anushka-waghmare-104865261/) | [Twitter](https://x.com/AnushkaWaghma12) |  |
 | Swarnim Yawale | Head of Branding | [GitHub](https://github.com/Swarnim-Yawale) | [LinkedIn](https://www.linkedin.com/in/swarnim-yawale-142109264/) | [Twitter](https://x.com/swarnim_y424) |  |
 
@@ -71,7 +71,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
-| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| **Susmit Bahadkar** | **Lead** | **[GitHub](https://github.com/bobbybacala)** | **[LinkedIn](https://www.linkedin.com/in/susmit-bahadkar-8b127925b/)** | **[Twitter](https://x.com/susmit_bahadkar)** | |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 ---
@@ -80,7 +80,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
-| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| **Aaditya Patil** | **Lead** | **[GitHub](https://github.com/Aaditatgithub)** | **[LinkedIn](https://www.linkedin.com/in/aaditya-patil-b68899250/)** | **-** | **-** |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 ---
@@ -126,7 +126,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
 | **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
+| [Dhirendra Gundre] | [Coordinator] | [GitHub](https://github.com/dhirendrag) | [LinkedIn](https://www.linkedin.com/in/dhirendra-gundre-0702332ba/) | [Twitter](https://x.com/dfordhirendra) | 
 
 ---
 
