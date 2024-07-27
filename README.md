@@ -61,10 +61,13 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ### Mobile Application Development
 
-| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
-| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+
+| Name | Role | GitHub | LinkedIn | Twitter | Other Links |
+|------|------|--------|----------|---------|-------------|
+| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| Ninad Belorkar | Coordinator | [GitHub](https://github.com/ninadbelorkar) | [LinkedIn](https://www.linkedin.com/in/ninadbelorkar) | [Twitter](https://x.com/ninadbelorkar) | [Other Links] |
+| [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
+
 
 ---
 
