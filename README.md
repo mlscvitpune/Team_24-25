@@ -116,7 +116,9 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
+| **Pranav Doshi** | **Lead** | **[GitHub](https://github.com/pranav8doshi)** | **[LinkedIn](https://www.linkedin.com/in/pranav-doshi-5463b2249)** | **[Twitter](https://x.com/PranavDosh17136)** | **[Other Links]** |
 | **Mandar Pandagale** | **Lead** | **[GitHub](https://github.com/mandar-p27)** | **[LinkedIn](https://www.linkedin.com/in/mandar-pandagale)** | **[Twitter](https://x.com/mandar_999)** | **[Other Links]** |
+
 | [Add Name] | [Add Role] | [Github] | [Linkedin] | [Twitter] | [Other Links] |
 
 
