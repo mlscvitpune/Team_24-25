@@ -47,6 +47,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
 | Purvi Solanki   | Coordinator | [GitHub](https://github.com/Purvi-Solanki)     | [LinkedIn](https://www.linkedin.com/in/purvi-solanki-bb5312288/)  | [Twitter]     | [Other Links]     |
+| Manthan Khawse  | Coordinator | [GitHub](https://github.com/manthankhawse)     | [LinkedIn](https://www.linkedin.com/in/manthan-khawse-74a898245/)  | [Twitter](https://x.com/khawse_man69128)     | [Other Links]     |
 
 ---
 
