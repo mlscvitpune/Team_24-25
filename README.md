@@ -117,7 +117,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
 | **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| Ruturaj Sutar | Co-Ordinator | [GitHub](https://github.com/Ruturajs29) | [LinkedIn](https://linkedin.com/in/ruturaj-sutar/) | [Twitter](https://x.com/Ruturajsutar29?t=xMZFD2l57oUouqM44B1_CQ&s=09) | [Other Links] |
+| Ruturaj Sutar | Co-Ordinator | [GitHub](https://github.com/Ruturajs29) | [LinkedIn](https://linkedin.com/in/ruturaj-sutar/) | [Twitter](https://x.com/Ruturajsutar29?t=xMZFD2l57oUouqM44B1_CQ&s=09) |  |
 
 
 ---
