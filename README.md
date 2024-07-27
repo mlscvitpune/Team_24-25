@@ -47,6 +47,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
 | Purvi Solanki   | Coordinator | [GitHub](https://github.com/Purvi-Solanki)     | [LinkedIn](https://www.linkedin.com/in/purvi-solanki-bb5312288/)  | [Twitter]     | [Other Links]     |
+| Rachit Nimje    | Coordinator | [GitHub](https://github.com/rachitnimje)     | [LinkedIn](https://www.linkedin.com/in/rachitnimje/)  | [Twitter]     | [Other Links]     |
 
 ---
 
