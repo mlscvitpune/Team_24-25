@@ -108,7 +108,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
 | **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
+| Samiksha Solanke | Coordinator | [GitHub](https://github.com/SamikshaSolanke) | [LinkedIn](https://www.linkedin.com/in/samiksha-solanke-1611342ba/) |  |  |
 
 ---
 
