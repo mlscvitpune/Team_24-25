@@ -48,6 +48,8 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
 | Purvi Solanki   | Coordinator | [GitHub](https://github.com/Purvi-Solanki)     | [LinkedIn](https://www.linkedin.com/in/purvi-solanki-bb5312288/)  | [Twitter]     | [Other Links]     |
 
+| Soham Karandikar | Coordinator | [GitHub](https://github.com/skadewdl3) | [LinkedIn](https://www.linkedin.com/in/soham-karandikar-b994301a8/) | [Twitter](https://x.com/skadewdl3) | [Portfolio](https://skadewdl3.vercel.app) |
+
 ---
 
 ### Web 3.0
