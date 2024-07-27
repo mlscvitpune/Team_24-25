@@ -93,7 +93,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+|  Shrirang Bhende | Coordinator |[GitHub](https://github.com/shrirang1009)|[LinkedIn](https://www.linkedin.com/in/shrirang-bhende-601819280/)     |      |
 
 
 ---
