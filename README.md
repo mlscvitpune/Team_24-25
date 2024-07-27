@@ -8,7 +8,7 @@ Welcome to the MLSC Team 2024-2025 repository! This document provides an overvie
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
-| Chinmay Inamdar | President | [GitHub]() | [Twitter]() | [Twitter]() |
+| Chinmay Inamdar | President | [GitHub]() | [LinkedIn]() | [Twitter]() |
 | Ashish Jha | Vice President | [GitHub](https://github.com/ashishjha1034) | [LinkedIn](https://www.linkedin.com/in/ashish-jha-a75b18250/) | [Twitter](https://x.com/ashishjha1034) |  |
 | Parth Kulkarni | Project Head | [GitHub](https://github.com/parthkulkarni04) | [LinkedIn](https://www.linkedin.com/in/parthkulkarni04/) | [Twitter](https://x.com/KulkarniParth17) |  |
 | Arya Pathak | Technical Lead | [GitHub](https://github.com/arya2004) | [LinkedIn](https://www.linkedin.com/in/arya-pathak-a53a58256/) | [Twitter](https://twitter.com/_arya2004) |  |
@@ -63,6 +63,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
 | **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| Ninad Belorkar | Coordinator | [GitHub](https://github.com/ninadbelorkar) | [LinkedIn](https://www.linkedin.com/in/ninadbelorkar) | [Twitter](https://x.com/ninadbelorkar) | [Other Links] |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 ---
