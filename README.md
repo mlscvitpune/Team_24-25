@@ -80,7 +80,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 |------|------|--------|----------|---------|-------------|
 | **Susmit Bahadkar** | **Lead** | **[GitHub](https://github.com/bobbybacala)** | **[LinkedIn](https://www.linkedin.com/in/susmit-bahadkar-8b127925b/)** | **[Twitter](https://x.com/susmit_bahadkar)** | |
 | **Tanishq Thuse** | **Coordinator** | **[GitHub](https://github.com/TanishqThuse)** | **[LinkedIn](https://www.linkedin.com/in/tanishq-thuse-32472b248/)** | **[Twitter](https://x.com/tanishq552005)** | |
-| [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
+| **Mayenk Joshi** | **Coordinator** | **[GitHub](https://github.com/MayenkJosh1)** | **[LinkedIn](https://www.linkedin.com/in/mayenk-joshi-503685315)** | **[Twitter](https://x.com/MayenkJoshi)** | [Other Links] |
 
 ---
 
