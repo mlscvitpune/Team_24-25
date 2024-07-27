@@ -61,10 +61,15 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ### Mobile Application Development
 
-| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
-| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+
+| Name | Role | GitHub | LinkedIn | Twitter | Other Links |
+|------|------|--------|----------|---------|-------------|
+| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| Ninad Belorkar | Coordinator | [GitHub](https://github.com/ninadbelorkar) | [LinkedIn](https://www.linkedin.com/in/ninadbelorkar) | [Twitter](https://x.com/ninadbelorkar) | [Other Links] |
+| Tripti Mirani | Coordinator | [GitHub](https://github.com/TriptiMirani) | [LinkedIn](www.linkedin.com/in/tripti-mirani-683613294) | [Twitter](https://x.com/TriptiMirani) |
+| [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
+
+
 
 ---
 
@@ -74,16 +79,22 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
 | **Susmit Bahadkar** | **Lead** | **[GitHub](https://github.com/bobbybacala)** | **[LinkedIn](https://www.linkedin.com/in/susmit-bahadkar-8b127925b/)** | **[Twitter](https://x.com/susmit_bahadkar)** | |
-| [Hitanshi Sahni] | [Coordinator] | [GitHub](https://github.com/HitanshiSahni) | [LinkedIn](www.linkedin.com/in/hitanshi-sahni-8680a328b) | [Twitter](https://x.com/Hitanshi__21) | |
+| Tanishq Thuse | Coordinator | [GitHub](https://github.com/TanishqThuse) | [LinkedIn](https://www.linkedin.com/in/tanishq-thuse-32472b248/) | [Twitter](https://x.com/tanishq552005) | |
+| Hitanshi Sahni | Coordinator | [GitHub](https://github.com/HitanshiSahni) | [LinkedIn](www.linkedin.com/in/hitanshi-sahni-8680a328b) | [Twitter](https://x.com/Hitanshi__21) | |
+| [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
+
 
 ---
 
 ### Cloud Computing
 
+
+
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
 | [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+
 
 ---
 
@@ -100,19 +111,24 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ### Content
 
-| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
-| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+
+| Name | Role | GitHub | LinkedIn | Twitter | Other Links |
+|------|------|--------|----------|---------|-------------|
+| **Mandar Pandagale** | **Lead** | **[GitHub](https://github.com/mandar-p27)** | **[LinkedIn](https://www.linkedin.com/in/mandar-pandagale)** | **[Twitter](https://x.com/mandar_999)** | **[Other Links]** |
+| [Add Name] | [Add Role] | [Github] | [Linkedin] | [Twitter] | [Other Links] |
+
 
 ---
 
 ### Event Management
 
-| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
-| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+
+| Name | Role | GitHub | LinkedIn | Twitter | Other Links |
+|------|------|--------|----------|---------|-------------|
+| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| **Samiksha Solanke** | **Coordinator** | **[GitHub](https://github.com/SamikshaSolanke)** | **[LinkedIn](https://www.linkedin.com/in/samiksha-solanke-1611342ba/)** |  |  |
 | [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+
 
 ---
 
@@ -127,9 +143,12 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ### Community Management
 
-| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
-| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+
+| Name | Role | GitHub | LinkedIn | Twitter | Other Links |
+|------|------|--------|----------|---------|-------------|
+| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| Dhirendra Gundre | Coordinator | [GitHub](https://github.com/dhirendrag) | [LinkedIn](https://www.linkedin.com/in/dhirendra-gundre-0702332ba/) | [Twitter](https://x.com/dfordhirendra) | 
 | [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+
 
 ---
