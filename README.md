@@ -47,7 +47,10 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
 | Purvi Solanki   | Coordinator | [GitHub](https://github.com/Purvi-Solanki)     | [LinkedIn](https://www.linkedin.com/in/purvi-solanki-bb5312288/)  | [Twitter]     | [Other Links]     |
+| Soham Karandikar | Coordinator | [GitHub](https://github.com/skadewdl3) | [LinkedIn](https://www.linkedin.com/in/soham-karandikar-b994301a8/) | [Twitter](https://x.com/skadewdl3) | [Portfolio](https://skadewdl3.vercel.app) |
 | Rachit Nimje    | Coordinator | [GitHub](https://github.com/rachitnimje)     | [LinkedIn](https://www.linkedin.com/in/rachitnimje/)  | [Twitter]     | [Other Links]     |
+
+
 
 ---
 
@@ -83,6 +86,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | **Susmit Bahadkar** | **Lead** | **[GitHub](https://github.com/bobbybacala)** | **[LinkedIn](https://www.linkedin.com/in/susmit-bahadkar-8b127925b/)** | **[Twitter](https://x.com/susmit_bahadkar)** | |
 | Tanishq Thuse | Coordinator | [GitHub](https://github.com/TanishqThuse) | [LinkedIn](https://www.linkedin.com/in/tanishq-thuse-32472b248/) | [Twitter](https://x.com/tanishq552005) | |
 | Hitanshi Sahni | Coordinator | [GitHub](https://github.com/HitanshiSahni) | [LinkedIn](www.linkedin.com/in/hitanshi-sahni-8680a328b) | [Twitter](https://x.com/Hitanshi__21) | |
+| Mayenk Joshi | Coordinator | [GitHub](https://github.com/MayenkJosh1) | [LinkedIn](https://www.linkedin.com/in/mayenk-joshi-503685315) | [Twitter](https://x.com/MayenkJoshi) | [Other Links] |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 
@@ -100,7 +104,22 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ---
 
-### Multimedia
+### Multimedia<<<<<<< omi
+141
+ 
+| Name | Role | GitHub | LinkedIn | Twitter | Other Links |
+142
+ 
+|------|------|--------|----------|---------|-------------|
+143
+ 
+| **Om Lohade** | **Lead** | **[GitHub](https://github.com/omlohade)** | **[LinkedIn](https://www.linkedin.com/in/om-lohade-373b29291/)** | **[Twitter](https://x.com/OLohade82000)** | **[Other Links]** |
+144
+ 
+| [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
+145
+ 
+=======
 
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
@@ -137,9 +156,10 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ### Partnership Management
 
+
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| **Om Lohade** | **Lead** | **[GitHub](https://github.com/omlohade)** | **[LinkedIn](https://www.linkedin.com/in/om-lohade-373b29291/)** | **[Twitter](https://x.com/OLohade82000)** | **[Other Links]** |
 | [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
 
 ---
