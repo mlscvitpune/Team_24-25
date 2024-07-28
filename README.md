@@ -59,7 +59,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name                 | Role       | GitHub                                       | LinkedIn                                               | Twitter                                     | Other Links   |
 | -------------------- | ---------- | -------------------------------------------- | ------------------------------------------------------ | ------------------------------------------- | ------------- |
 | **Omkar Khanvilkar** | **Lead**   | **[GitHub](https://github.com/omithecoder)** | **[LinkedIn](https://www.linkedin.com/in/omkar2004/)** | **[Twitter](https://x.com/Omkarsoham9776)** |               |
-| Akshat Patil           | Coordinator | [GitHub](https://github.com/pieakshat)    | [LinkedIn](https://www.linkedin.com/in/akshat-patil-909bb828a/) | [Twitter]    (https://x.com/pieakshat) |  |
+| Akshat Patil           | Coordinator | [GitHub](https://github.com/pieakshat)    | [LinkedIn](https://www.linkedin.com/in/akshat-patil-909bb828a/) | [Twitter](https://x.com/pieakshat) |  |
 
 ---
 
