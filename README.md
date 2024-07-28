@@ -84,6 +84,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
 | **Susmit Bahadkar** | **Lead** | **[GitHub](https://github.com/bobbybacala)** | **[LinkedIn](https://www.linkedin.com/in/susmit-bahadkar-8b127925b/)** | **[Twitter](https://x.com/susmit_bahadkar)** | |
+| **Yogesh Lale** | **Lead** | **[GitHub](https://github.com/yogeshlale369)** | **[LinkedIn](https://www.linkedin.com/in/yogeshlale/)** | **[Twitter](https://x.com/YogeshLale)** | |
 | Tanishq Thuse | Coordinator | [GitHub](https://github.com/TanishqThuse) | [LinkedIn](https://www.linkedin.com/in/tanishq-thuse-32472b248/) | [Twitter](https://x.com/tanishq552005) | |
 | Hitanshi Sahni | Coordinator | [GitHub](https://github.com/HitanshiSahni) | [LinkedIn](www.linkedin.com/in/hitanshi-sahni-8680a328b) | [Twitter](https://x.com/Hitanshi__21) | |
 | Mayenk Joshi | Coordinator | [GitHub](https://github.com/MayenkJosh1) | [LinkedIn](https://www.linkedin.com/in/mayenk-joshi-503685315) | [Twitter](https://x.com/MayenkJoshi) | [Other Links] |
