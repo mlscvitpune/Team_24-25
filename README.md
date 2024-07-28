@@ -46,7 +46,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+| Purvi Solanki   | Coordinator | [GitHub](https://github.com/Purvi-Solanki)     | [LinkedIn](https://www.linkedin.com/in/purvi-solanki-bb5312288/)  | [Twitter]     | [Other Links]     |
 
 ---
 
@@ -67,6 +67,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
 | Ninad Belorkar | Coordinator | [GitHub](https://github.com/ninadbelorkar) | [LinkedIn](https://www.linkedin.com/in/ninadbelorkar) | [Twitter](https://x.com/ninadbelorkar) | [Other Links] |
 | Tripti Mirani | Coordinator | [GitHub](https://github.com/TriptiMirani) | [LinkedIn](www.linkedin.com/in/tripti-mirani-683613294) | [Twitter](https://x.com/TriptiMirani) |
+| Krishna Sadar | Coordinator | [GitHub](https://github.com/KrishnaSadar) | [LinkedIn](https://www.linkedin.com/in/krishna-sadar-7238682b3/) |  | [Instagram](https://instagram.com/soul_taker_952) |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 
@@ -79,8 +80,11 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
 | **Susmit Bahadkar** | **Lead** | **[GitHub](https://github.com/bobbybacala)** | **[LinkedIn](https://www.linkedin.com/in/susmit-bahadkar-8b127925b/)** | **[Twitter](https://x.com/susmit_bahadkar)** | |
-| **Tanishq Thuse** | **Coordinator** | **[GitHub](https://github.com/TanishqThuse)** | **[LinkedIn](https://www.linkedin.com/in/tanishq-thuse-32472b248/)** | **[Twitter](https://x.com/tanishq552005)** | |
-| **Mayenk Joshi** | **Coordinator** | **[GitHub](https://github.com/MayenkJosh1)** | **[LinkedIn](https://www.linkedin.com/in/mayenk-joshi-503685315)** | **[Twitter](https://x.com/MayenkJoshi)** | [Other Links] |
+| Tanishq Thuse | Coordinator | [GitHub](https://github.com/TanishqThuse) | [LinkedIn](https://www.linkedin.com/in/tanishq-thuse-32472b248/) | [Twitter](https://x.com/tanishq552005) | |
+| Hitanshi Sahni | Coordinator | [GitHub](https://github.com/HitanshiSahni) | [LinkedIn](www.linkedin.com/in/hitanshi-sahni-8680a328b) | [Twitter](https://x.com/Hitanshi__21) | |
+| Mayenk Joshi | Coordinator | [GitHub](https://github.com/MayenkJosh1) | [LinkedIn](https://www.linkedin.com/in/mayenk-joshi-503685315) | [Twitter](https://x.com/MayenkJoshi) | [Other Links] |
+| [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
+
 
 ---
 
@@ -91,7 +95,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+|  Shrirang Bhende | Coordinator |[GitHub](https://github.com/shrirang1009)|[LinkedIn](https://www.linkedin.com/in/shrirang-bhende-601819280/)     |      |
 
 
 ---
@@ -102,6 +106,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
 | **Ashish Rodi** | **Lead** | **[GitHub](https://github.com/AshishRodi)** | **[LinkedIn](www.linkedin.com/in/ashish-rodi-a7328a269)** | **[Twitter]** | **[Other Links]** |
+| Shreya Gade | Coordinator | [GitHub](https://github.com/Seaborgi) | [LinkedIn](https://www.linkedin.com/in/shreya-gade-b73318288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter](https://x.com/seaborgium_601?t=jq5bCtkU1KT0orinnl0E8Q&s=08) | |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 
