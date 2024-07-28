@@ -100,7 +100,22 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ---
 
-### Multimedia
+### Multimedia<<<<<<< omi
+141
+ 
+| Name | Role | GitHub | LinkedIn | Twitter | Other Links |
+142
+ 
+|------|------|--------|----------|---------|-------------|
+143
+ 
+| **Om Lohade** | **Lead** | **[GitHub](https://github.com/omlohade)** | **[LinkedIn](https://www.linkedin.com/in/om-lohade-373b29291/)** | **[Twitter](https://x.com/OLohade82000)** | **[Other Links]** |
+144
+ 
+| [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
+145
+ 
+=======
 
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
@@ -137,9 +152,10 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ### Partnership Management
 
+
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| **Om Lohade** | **Lead** | **[GitHub](https://github.com/omlohade)** | **[LinkedIn](https://www.linkedin.com/in/om-lohade-373b29291/)** | **[Twitter](https://x.com/OLohade82000)** | **[Other Links]** |
 | [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
 
 ---
