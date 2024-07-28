@@ -63,7 +63,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
 | **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| Tripti Mirani | Coordinator | [GitHub](https://github.com/TriptiMirani) | [LinkedIn](www.linkedin.com/in/tripti-mirani-683613294) | [Twitter](https://x.com/TriptiMirani)
+| Tripti Mirani | Coordinator | [GitHub](https://github.com/TriptiMirani) | [LinkedIn](https://www.linkedin.com/in/tripti-mirani-683613294) | [Twitter](https://x.com/TriptiMirani)
 
 ---
 
