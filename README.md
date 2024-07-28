@@ -148,7 +148,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Om Lohade** | **Lead** | **[GitHub](https://github.com/omlohade)** | **[LinkedIn](https://www.linkedin.com/in/om-lohade-373b29291/)** | **[Twitter](https://x.com/OLohade82000)** | **[Other Links]** |
-| [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+|**Shreya Sonawane** |**Coordinator**  | **[GitHub](https://github.com/shreyasonawane123)** | **[LinkedIn](https://www.linkedin.com/in/shreya-sonawane-8811672b0/)**     | [Twitter]     | [Other Links]     |
 
 ---
 
