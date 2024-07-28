@@ -93,7 +93,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **Aaditya Patil** | **Lead**   | **[GitHub](https://github.com/Aaditatgithub)** | **[LinkedIn](https://www.linkedin.com/in/aaditya-patil-b68899250)** | ** ** | ** ** |
+| **Aaditya Patil** | **Lead**   | **[GitHub](https://github.com/Aaditatgithub)** | **[LinkedIn](https://www.linkedin.com/in/aaditya-patil-b68899250)** |  |  |
 |  Shrirang Bhende | Coordinator |[GitHub](https://github.com/shrirang1009)|[LinkedIn](https://www.linkedin.com/in/shrirang-bhende-601819280/)     |      |
 
 
