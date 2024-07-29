@@ -158,6 +158,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 |------|------|--------|----------|---------|-------------|
 | **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
 | Dhirendra Gundre | Coordinator | [GitHub](https://github.com/dhirendrag) | [LinkedIn](https://www.linkedin.com/in/dhirendra-gundre-0702332ba/) | [Twitter](https://x.com/dfordhirendra) | 
+| Riddhi Sadavarte  | Coordinator | [GitHub](https://github.com/riddhii52) | [LinkedIn](https://www.linkedin.com/in/riddhi-sadavarte-42035930b/) | [Twitter]() | 
 | [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
 
 
