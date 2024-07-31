@@ -148,6 +148,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Om Lohade** | **Lead** | **[GitHub](https://github.com/omlohade)** | **[LinkedIn](https://www.linkedin.com/in/om-lohade-373b29291/)** | **[Twitter](https://x.com/OLohade82000)** | **[Other Links]** |
 | Shreya Sonawane | Coordinator  | [GitHub](https://github.com/shreyasonawane123) | [LinkedIn](https://www.linkedin.com/in/shreya-sonawane-8811672b0/)     | [Twitter]     | [Other Links]     |
+| Ruturaj Sutar | Coordinator  | [GitHub](https://github.com/Ruturajs29) | [LinkedIn](linkedin.com/in/ruturaj-sutar)     | [Twitter](https://x.com/Ruturajsutar29?t=xMZFD2l57oUouqM44B1_CQ&s=09)     | [Other Links]     |
 
 ---
 
