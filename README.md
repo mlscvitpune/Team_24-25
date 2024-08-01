@@ -1,3 +1,4 @@
+
 # MLSC Team 24-25
 
 Welcome to the MLSC Team 2024-2025 repository! This document provides an overview of our team members and the various domains we specialize in.
@@ -46,7 +47,6 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| Purvi Solanki   | Coordinator | [GitHub](https://github.com/Purvi-Solanki)     | [LinkedIn](https://www.linkedin.com/in/purvi-solanki-bb5312288/)  | [Twitter]     | [Other Links]     |
 | Soham Karandikar | Coordinator | [GitHub](https://github.com/skadewdl3) | [LinkedIn](https://www.linkedin.com/in/soham-karandikar-b994301a8/) | [Twitter](https://x.com/skadewdl3) | [Portfolio](https://skadewdl3.vercel.app) |
 | Rachit Nimje    | Coordinator | [GitHub](https://github.com/rachitnimje)     | [LinkedIn](https://www.linkedin.com/in/rachitnimje/)  | [Twitter]     | [Other Links]     |
 | Manthan Khawse  | Coordinator | [GitHub](https://github.com/manthankhawse)     | [LinkedIn](https://www.linkedin.com/in/manthan-khawse-74a898245/)  | [Twitter](https://x.com/khawse_man69128)     | [Other Links]     |
@@ -60,6 +60,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | -------------------- | ---------- | -------------------------------------------- | ------------------------------------------------------ | ------------------------------------------- | ------------- |
 | **Omkar Khanvilkar** | **Lead**   | **[GitHub](https://github.com/omithecoder)** | **[LinkedIn](https://www.linkedin.com/in/omkar2004/)** | **[Twitter](https://x.com/Omkarsoham9776)** |               |
 | Akshat Patil           | Coordinator | [GitHub](https://github.com/pieakshat)    | [LinkedIn](https://www.linkedin.com/in/akshat-patil-909bb828a/) | [Twitter](https://x.com/pieakshat) |  |
+| Hardik Rokde    | Coordinator | [GitHub](https://github.com/Hardik174) | [LinkedIn](https://www.linkedin.com/in/hardik-rokde-844a6528a/) | [Twitter](https://x.com/Hardik_Rokde17) |
 
 ---
 
@@ -88,7 +89,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Tanishq Thuse | Coordinator | [GitHub](https://github.com/TanishqThuse) | [LinkedIn](https://www.linkedin.com/in/tanishq-thuse-32472b248/) | [Twitter](https://x.com/tanishq552005) | |
 | Hitanshi Sahni | Coordinator | [GitHub](https://github.com/HitanshiSahni) | [LinkedIn](www.linkedin.com/in/hitanshi-sahni-8680a328b) | [Twitter](https://x.com/Hitanshi__21) | |
 | Mayenk Joshi | Coordinator | [GitHub](https://github.com/MayenkJosh1) | [LinkedIn](https://www.linkedin.com/in/mayenk-joshi-503685315) | [Twitter](https://x.com/MayenkJoshi) | [Other Links] |
-| [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
+| Tanishka Singh | Coordinator | [GitHub](https://github.com/Tanishka-Singh05) | [LinkedIn](https://www.linkedin.com/in/tanishka-singh-793895291) | [Twitter](https://x.com/tanishkaah_here) | |
 
 
 ---
@@ -101,6 +102,8 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Aaditya Patil** | **Lead**   | **[GitHub](https://github.com/Aaditatgithub)** | **[LinkedIn](https://www.linkedin.com/in/aaditya-patil-b68899250)** |  |  |
 |  Shrirang Bhende | Coordinator |[GitHub](https://github.com/shrirang1009)|[LinkedIn](https://www.linkedin.com/in/shrirang-bhende-601819280/)     |      |
+|  Ishaan Chepurwar | Coordinator |[GitHub](https://github.com/Ish81)|[LinkedIn](https://www.linkedin.com/in/ishaan-chepurwar-6a9b98293/)     |      |
+| Abhishek Yadav | Coordinator | [GitHub](https://github.com/Abheeee0001) | [LinkedIn](https://www.linkedin.com/in/abhishek-yadav-30b583316/) |  |  |
 
 
 ---
@@ -112,6 +115,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 |------|------|--------|----------|---------|-------------|
 | **Ashish Rodi** | **Lead** | **[GitHub](https://github.com/AshishRodi)** | **[LinkedIn](www.linkedin.com/in/ashish-rodi-a7328a269)** | **[Twitter]** | **[Other Links]** |
 | Shreya Gade | Coordinator | [GitHub](https://github.com/Seaborgi) | [LinkedIn](https://www.linkedin.com/in/shreya-gade-b73318288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter](https://x.com/seaborgium_601?t=jq5bCtkU1KT0orinnl0E8Q&s=08) | |
+| Gauri Kokate | Coordinator | [GitHub](https://github.com/GauriKokate6)| [LinkedIn](https://www.linkedin.com/in/gauri-kokate-594b51257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter] | [Other Links] |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 
@@ -124,6 +128,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 |------|------|--------|----------|---------|-------------|
 | **Mandar Pandagale** | **Lead** | **[GitHub](https://github.com/mandar-p27)** | **[LinkedIn](https://www.linkedin.com/in/mandar-pandagale)** | **[Twitter](https://x.com/mandar_999)** | **[Other Links]** |
 | **Pranav Doshi** | **Lead** | **[GitHub](https://github.com/pranav8doshi)** | **[LinkedIn](https://www.linkedin.com/in/pranav-doshi-5463b2249)** | **[Twitter](https://x.com/PranavDosh17136)** | **[Other Links]** |
+| Archit Khatri | Coordinator | [Github](https://github.com/Archit27k) | [LinkedIn](https://www.linkedin.com/in/archit-khatri-613a13256/) | [Twitter](https://x.com/ArchitKhatri7) | [Other Links] |
 | [Add Name] | [Add Role] | [Github] | [Linkedin] | [Twitter] | [Other Links] |
 
 
@@ -136,7 +141,9 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 |------|------|--------|----------|---------|-------------|
 | **Tejas Rajendra Phalke** | **Lead** | **[GitHub](https://github.com/TejasPhalke228)** | **[LinkedIn](https://www.linkedin.com/in/tejas-phalke-05b402304)** | **[Twitter]** | **[Other Links]** |
 | Samiksha Solanke | Coordinator | [GitHub](https://github.com/SamikshaSolanke) | [LinkedIn](https://www.linkedin.com/in/samiksha-solanke-1611342ba/) |  |  |
-| [Chaitanya Luniya]      | [co-ordinator] | [GitHub](https://github.com/chaitanyaluniya)    | [LinkedIn] (https://in.linkedin.com/in/chaitanya-luniya-a170132bb)   | [Twitter] (https://x.com/chaitanyaluniya?t=i-M-0U3ue7M4nYTni2SCag&s=09) |      |
+| Purvi Solanki     | Coordinator | [GitHub](https://github.com/Purvi-Solanki)    | [LinkedIn](https://linkedin.com/in/purvi-solanki-bb5312288/)    |    |      |
+| Chaitanya Luniya      | co-ordinator | [GitHub](https://github.com/chaitanyaluniya)    | [LinkedIn](https://in.linkedin.com/in/chaitanya-luniya-a170132bb)   | [Twitter](https://x.com/chaitanyaluniya?t=i-M-0U3ue7M4nYTni2SCag&s=09) |      |
+
 
 
 ---
@@ -158,7 +165,9 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 |------|------|--------|----------|---------|-------------|
 | **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
 | Dhirendra Gundre | Coordinator | [GitHub](https://github.com/dhirendrag) | [LinkedIn](https://www.linkedin.com/in/dhirendra-gundre-0702332ba/) | [Twitter](https://x.com/dfordhirendra) | 
+| Riddhi Sadavarte  | Coordinator | [GitHub](https://github.com/riddhii52) | [LinkedIn](https://www.linkedin.com/in/riddhi-sadavarte-42035930b/) | [Twitter]() | 
 | [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
 
 
 ---
+
