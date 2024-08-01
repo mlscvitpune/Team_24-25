@@ -1,3 +1,4 @@
+
 # MLSC Team 24-25
 
 Welcome to the MLSC Team 2024-2025 repository! This document provides an overview of our team members and the various domains we specialize in.
@@ -101,6 +102,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Aaditya Patil** | **Lead**   | **[GitHub](https://github.com/Aaditatgithub)** | **[LinkedIn](https://www.linkedin.com/in/aaditya-patil-b68899250)** |  |  |
 |  Shrirang Bhende | Coordinator |[GitHub](https://github.com/shrirang1009)|[LinkedIn](https://www.linkedin.com/in/shrirang-bhende-601819280/)     |      |
+|  Ishaan Chepurwar | Coordinator |[GitHub](https://github.com/Ish81)|[LinkedIn](https://www.linkedin.com/in/ishaan-chepurwar-6a9b98293/)     |      |
 
 
 ---
@@ -164,3 +166,4 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 
 ---
+
