@@ -142,6 +142,8 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | **Tejas Rajendra Phalke** | **Lead** | **[GitHub](https://github.com/TejasPhalke228)** | **[LinkedIn](https://www.linkedin.com/in/tejas-phalke-05b402304)** | **[Twitter]** | **[Other Links]** |
 | Samiksha Solanke | Coordinator | [GitHub](https://github.com/SamikshaSolanke) | [LinkedIn](https://www.linkedin.com/in/samiksha-solanke-1611342ba/) |  |  |
 | Purvi Solanki     | Coordinator | [GitHub](https://github.com/Purvi-Solanki)    | [LinkedIn](https://linkedin.com/in/purvi-solanki-bb5312288/)    |    |      |
+| Chaitanya Luniya      | co-ordinator | [GitHub](https://github.com/chaitanyaluniya)    | [LinkedIn](https://in.linkedin.com/in/chaitanya-luniya-a170132bb)   | [Twitter](https://x.com/chaitanyaluniya?t=i-M-0U3ue7M4nYTni2SCag&s=09) |      |
+
 
 
 ---
