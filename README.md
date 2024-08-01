@@ -46,7 +46,6 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
-| Purvi Solanki   | Coordinator | [GitHub](https://github.com/Purvi-Solanki)     | [LinkedIn](https://www.linkedin.com/in/purvi-solanki-bb5312288/)  | [Twitter]     | [Other Links]     |
 | Soham Karandikar | Coordinator | [GitHub](https://github.com/skadewdl3) | [LinkedIn](https://www.linkedin.com/in/soham-karandikar-b994301a8/) | [Twitter](https://x.com/skadewdl3) | [Portfolio](https://skadewdl3.vercel.app) |
 | Rachit Nimje    | Coordinator | [GitHub](https://github.com/rachitnimje)     | [LinkedIn](https://www.linkedin.com/in/rachitnimje/)  | [Twitter]     | [Other Links]     |
 | Manthan Khawse  | Coordinator | [GitHub](https://github.com/manthankhawse)     | [LinkedIn](https://www.linkedin.com/in/manthan-khawse-74a898245/)  | [Twitter](https://x.com/khawse_man69128)     | [Other Links]     |
@@ -136,7 +135,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 |------|------|--------|----------|---------|-------------|
 | **Tejas Rajendra Phalke** | **Lead** | **[GitHub](https://github.com/TejasPhalke228)** | **[LinkedIn](https://www.linkedin.com/in/tejas-phalke-05b402304)** | **[Twitter]** | **[Other Links]** |
 | Samiksha Solanke | Coordinator | [GitHub](https://github.com/SamikshaSolanke) | [LinkedIn](https://www.linkedin.com/in/samiksha-solanke-1611342ba/) |  |  |
-| [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+| Purvi Solanki     | Coordinator | [GitHub](https://github.com/Purvi-Solanki)    | [LinkedIn] (https://linkedin.com/in/purvi-solanki-bb5312288/)    |    |      |
 
 
 ---
