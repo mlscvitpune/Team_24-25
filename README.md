@@ -114,6 +114,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
 | **Ashish Rodi** | **Lead** | **[GitHub](https://github.com/AshishRodi)** | **[LinkedIn](www.linkedin.com/in/ashish-rodi-a7328a269)** | **[Twitter]** | **[Other Links]** |
+| Prarbdha Isad | Coordinator| [GitHub](https://github.com/Prarbdha) | [LinkedIn](www.linkedin.com/in/prarbdhaisad) | [Twitter](https://x.com/PIsad001) |  |
 | Shreya Gade | Coordinator | [GitHub](https://github.com/Seaborgi) | [LinkedIn](https://www.linkedin.com/in/shreya-gade-b73318288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter](https://x.com/seaborgium_601?t=jq5bCtkU1KT0orinnl0E8Q&s=08) | |
 | Gauri Kokate | Coordinator | [GitHub](https://github.com/GauriKokate6)| [LinkedIn](https://www.linkedin.com/in/gauri-kokate-594b51257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter] | [Other Links] |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
