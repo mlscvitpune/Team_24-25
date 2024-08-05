@@ -51,6 +51,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Rachit Nimje    | Coordinator | [GitHub](https://github.com/rachitnimje)     | [LinkedIn](https://www.linkedin.com/in/rachitnimje/)  | [Twitter]     | [Other Links]     |
 | Manthan Khawse  | Coordinator | [GitHub](https://github.com/manthankhawse)     | [LinkedIn](https://www.linkedin.com/in/manthan-khawse-74a898245/)  | [Twitter](https://x.com/khawse_man69128)     | [Other Links]     |
 | Neeraj Pathak   | Coordinator | [GitHub](https://github.com/Neerajpathak07) | [LinkedIn](https://www.linkedin.com/in/neeraj-pathak-527a682a9/) | [Twitter] | [Other Links] |
+| Vallabh Sangvikar  | Coordinator | [GitHub](https://github.com/VallabhSangvikar)  | [LinkedIn](https://www.linkedin.com/in/vallabh-sangvikar/)  | [Twitter]     | [Other Links]     |
 
 
 ---
