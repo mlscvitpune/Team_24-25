@@ -92,7 +92,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Hitanshi Sahni | Coordinator | [GitHub](https://github.com/HitanshiSahni) | [LinkedIn](www.linkedin.com/in/hitanshi-sahni-8680a328b) | [Twitter](https://x.com/Hitanshi__21) | |
 | Mayenk Joshi | Coordinator | [GitHub](https://github.com/MayenkJosh1) | [LinkedIn](https://www.linkedin.com/in/mayenk-joshi-503685315) | [Twitter](https://x.com/MayenkJoshi) | [Other Links] |
 | Tanishka Singh | Coordinator | [GitHub](https://github.com/Tanishka-Singh05) | [LinkedIn](https://www.linkedin.com/in/tanishka-singh-793895291) | [Twitter](https://x.com/tanishkaah_here) | |
-
+| Aditya Yadav | Coordinator | [GitHub](https://github.com/adityay72) | [LinkedIn](https://www.linkedin.com/in/aditya-y-930839292/) | 
 
 ---
 
