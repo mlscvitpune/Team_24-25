@@ -68,7 +68,8 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
-| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| **[Harsh Chaudhari]** | **App Development Lead** | **[GitHub](https://github.com/BruceWanye9)** | **[LinkedIn](https://www.linkedin.com/in/harsh-chaudhari-b4b994258/)** | 
+
 | Ninad Belorkar | Coordinator | [GitHub](https://github.com/ninadbelorkar) | [LinkedIn](https://www.linkedin.com/in/ninadbelorkar) | [Twitter](https://x.com/ninadbelorkar) | [Other Links] |
 | Tripti Mirani | Coordinator | [GitHub](https://github.com/TriptiMirani) | [LinkedIn](https://www.linkedin.com/in/tripti-mirani-683613294) | [Twitter](https://x.com/TriptiMirani)
 | Krishna Sadar | Coordinator | [GitHub](https://github.com/KrishnaSadar) | [LinkedIn](https://www.linkedin.com/in/krishna-sadar-7238682b3/) |  | [Instagram](https://instagram.com/soul_taker_952) |
