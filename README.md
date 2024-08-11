@@ -64,6 +64,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Akshat Patil           | Coordinator | [GitHub](https://github.com/pieakshat)    | [LinkedIn](https://www.linkedin.com/in/akshat-patil-909bb828a/) | [Twitter](https://x.com/pieakshat) |  |
 | Hardik Rokde    | Coordinator | [GitHub](https://github.com/Hardik174) | [LinkedIn](https://www.linkedin.com/in/hardik-rokde-844a6528a/) | [Twitter](https://x.com/Hardik_Rokde17) |
 | Shreya Mohite    | Coordinator | [GitHub](https://github.com/shreya7learn) | [LinkedIn](https://www.linkedin.com/in/shreya-mohite-019285259/) | [Twitter] |
+| Shaunak Karvir   | Coordinator | [GitHub](https://github.com/Shaunak-2)    | [LinkedIn](https://www.linkedin.com/in/shaunak-karvir-18a12924a/)| [Twitter](https://x.com/SKarvir54380) |
 
 
 ---
