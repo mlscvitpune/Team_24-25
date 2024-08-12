@@ -79,7 +79,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Tripti Mirani | Coordinator | [GitHub](https://github.com/TriptiMirani) | [LinkedIn](https://www.linkedin.com/in/tripti-mirani-683613294) | [Twitter](https://x.com/TriptiMirani)
 | Krishna Sadar | Coordinator | [GitHub](https://github.com/KrishnaSadar) | [LinkedIn](https://www.linkedin.com/in/krishna-sadar-7238682b3/) |  | [Instagram](https://instagram.com/soul_taker_952) |
 | Vedika Mali | Coordinator | [GitHub](https://github.com/vedika48) | [LinkedIn](https://www.linkedin.com/in/vedika-mali-/) | [Twitter](https://x.com/mevedika_45?s=08) | [Instagram](https://www.instagram.com/vedika_684?igsh=MXhtbXNzejMxYnl3Ng==) |
-
+| Chaitanya Kalbhairav| Coordinator |[GitHub](https://github.com/Gitkbc) | [LinkedIn](https://www.linkedin.com/in/chaitanya-kalbhairav-60162028b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   
 
 
 ---
@@ -178,4 +178,6 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 
 ---
+
+
 
