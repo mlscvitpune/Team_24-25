@@ -64,6 +64,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Akshat Patil           | Coordinator | [GitHub](https://github.com/pieakshat)    | [LinkedIn](https://www.linkedin.com/in/akshat-patil-909bb828a/) | [Twitter](https://x.com/pieakshat) |  |
 | Hardik Rokde    | Coordinator | [GitHub](https://github.com/Hardik174) | [LinkedIn](https://www.linkedin.com/in/hardik-rokde-844a6528a/) | [Twitter](https://x.com/Hardik_Rokde17) |
 | Shreya Mohite    | Coordinator | [GitHub](https://github.com/shreya7learn) | [LinkedIn](https://www.linkedin.com/in/shreya-mohite-019285259/) | [Twitter] |
+| Shaunak Karvir   | Coordinator | [GitHub](https://github.com/Shaunak-2)    | [LinkedIn](https://www.linkedin.com/in/shaunak-karvir-18a12924a/)| [Twitter](https://x.com/SKarvir54380) |
 
 
 ---
@@ -73,13 +74,13 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
-| **[Lead Name]** | **Lead** | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| **Harsh Chaudhari** | **Lead** | **[GitHub](https://github.com/BruceWanye9)** | **[LinkedIn](https://www.linkedin.com/in/harsh-chaudhari-b4b994258/)** | | |
 | **Anuja Ghagre Lead Name** | **Lead** | **[GitHub]https://github.com/Anuja13012005** | **[LinkedIn]https://www.linkedin.com/in/anuja-ghagre-51640426b** | **[Twitter]** | **[Other Links]** |
 | Ninad Belorkar | Coordinator | [GitHub](https://github.com/ninadbelorkar) | [LinkedIn](https://www.linkedin.com/in/ninadbelorkar) | [Twitter](https://x.com/ninadbelorkar) | [Other Links] |
 | Tripti Mirani | Coordinator | [GitHub](https://github.com/TriptiMirani) | [LinkedIn](https://www.linkedin.com/in/tripti-mirani-683613294) | [Twitter](https://x.com/TriptiMirani)
 | Krishna Sadar | Coordinator | [GitHub](https://github.com/KrishnaSadar) | [LinkedIn](https://www.linkedin.com/in/krishna-sadar-7238682b3/) |  | [Instagram](https://instagram.com/soul_taker_952) |
 | Vedika Mali | Coordinator | [GitHub](https://github.com/vedika48) | [LinkedIn](https://www.linkedin.com/in/vedika-mali-/) | [Twitter](https://x.com/mevedika_45?s=08) | [Instagram](https://www.instagram.com/vedika_684?igsh=MXhtbXNzejMxYnl3Ng==) |
-
+| Chaitanya Kalbhairav| Coordinator |[GitHub](https://github.com/Gitkbc) | [LinkedIn](https://www.linkedin.com/in/chaitanya-kalbhairav-60162028b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   
 
 
 ---
@@ -122,6 +123,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Shreya Gade | Coordinator | [GitHub](https://github.com/Seaborgi) | [LinkedIn](https://www.linkedin.com/in/shreya-gade-b73318288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter](https://x.com/seaborgium_601?t=jq5bCtkU1KT0orinnl0E8Q&s=08) | |
 | Gauri Kokate | Coordinator | [GitHub](https://github.com/GauriKokate6)| [LinkedIn](https://www.linkedin.com/in/gauri-kokate-594b51257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter] | [Other Links] |
 | Prarbdha Isad | Coordinator| [GitHub](https://github.com/Prarbdha) | [LinkedIn](www.linkedin.com/in/prarbdhaisad) | [Twitter](https://x.com/PIsad001) |  |
+| Apoorv Karmalkar | Coordinator| [GitHub](https://github.com/apoorv42069) | [LinkedIn](https://www.linkedin.com/in/apoorv-karmalkar-545b9626a/) | [Twitter] |  |
 | [Add Name] | [Add Role] | [GitHub] | [LinkedIn] | [Twitter] | [Other Links] |
 
 
@@ -177,4 +179,6 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 
 ---
+
+
 
