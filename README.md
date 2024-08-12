@@ -136,6 +136,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | **Mandar Pandagale** | **Lead** | **[GitHub](https://github.com/mandar-p27)** | **[LinkedIn](https://www.linkedin.com/in/mandar-pandagale)** | **[Twitter](https://x.com/mandar_999)** | **[Other Links]** |
 | **Pranav Doshi** | **Lead** | **[GitHub](https://github.com/pranav8doshi)** | **[LinkedIn](https://www.linkedin.com/in/pranav-doshi-5463b2249)** | **[Twitter](https://x.com/PranavDosh17136)** | **[Other Links]** |
 | Archit Khatri | Coordinator | [Github](https://github.com/Archit27k) | [LinkedIn](https://www.linkedin.com/in/archit-khatri-613a13256/) | [Twitter](https://x.com/ArchitKhatri7) | [Other Links] |
+|Ashvini Bhure | Coordinator | [Github](https://github.com/A01vini) | [Linkedin](https://www.linkedin.com/feed/) | [Twitter] | [Other Links] |
 | [Add Name] | [Add Role] | [Github] | [Linkedin] | [Twitter] | [Other Links] |
 
 
