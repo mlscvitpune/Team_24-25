@@ -1,4 +1,3 @@
-
 # MLSC Team 24-25
 
 Welcome to the MLSC Team 2024-2025 repository! This document provides an overview of our team members and the various domains we specialize in.
@@ -177,6 +176,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | **Bhavesh Patil** | **Lead** | **[GitHub](https://github.com/bhaveshxop)** | **[LinkedIn](https://www.linkedin.com/in/bhavesh-patil-b01b10254/)** | **[Twitter](https://x.com/BhaveshNPatil?t=Wf56bJr8ROyrg9YpHC3gNQ&s=09)** | **[Medium](https://medium.com/@bhaveshxop)** |
 | Dhirendra Gundre | Coordinator | [GitHub](https://github.com/dhirendrag) | [LinkedIn](https://www.linkedin.com/in/dhirendra-gundre-0702332ba/) | [Twitter](https://x.com/dfordhirendra) | 
 | Riddhi Sadavarte  | Coordinator | [GitHub](https://github.com/riddhii52) | [LinkedIn](https://www.linkedin.com/in/riddhi-sadavarte-42035930b/) | [Twitter]() | 
+| Raman Gandewar   | Coordinator | [GitHub](https://github.com/RamanGandewar) | [LinkedIn](https://in.linkedin.com/in/raman-gandewar-615983322)     | [Twitter]                              | [Other Links]  |
 | [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
 
 
